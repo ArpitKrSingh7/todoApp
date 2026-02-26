@@ -1,1 +1,0 @@
-{"version":3,"file":"browser.d.ts","sourceRoot":"","sources":["../../../src/generated/prisma/browser.ts"],"names":[],"mappings":"AAcA,OAAO,KAAK,MAAM,MAAM,sCAAsC,CAAC;AAC/D,OAAO,EAAE,MAAM,EAAE,CAAC;AAClB,OAAO,KAAK,MAAM,MAAM,YAAY,CAAC;AACrC,cAAc,YAAY,CAAC;AAC3B;;;GAGG;AACH,MAAM,MAAM,IAAI,GAAG,MAAM,CAAC,SAAS,CAAC;AACpC;;;GAGG;AACH,MAAM,MAAM,IAAI,GAAG,MAAM,CAAC,SAAS,CAAC"}
